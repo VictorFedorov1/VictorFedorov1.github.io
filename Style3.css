@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+header {
+    margin: 30px;
+}
+
+main {
+    padding: 10px;
+    background-color: purple;
+}
+.post {
+    background-color: orange;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    height:250px;
+    width: 47%;
+    float:left;
+    font-family: 'Pacifico';
+    font-weight: 100;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.post img {
+    margin: 5px;
+}
+body {
+   background-color: purple;
+}
+
+
+
+footer {
+    background-color: purple;
+    float: left;
+}
+
+.post9 {
+    background-color: orange;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    color: red;
+}
+.post9 img {
+    margin: 20px;
+}
+
