@@ -1,23 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Pacifico&display=swap');
+
 header{
-    background-color: black;
+    background-color: purple;
 }
 
 main {
     padding: 10px;
-    background-color: black;
+    background-color: purple;
 }
 .post {
-    background-color: white;
+    background-color: orange;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
     display: flex;
+    font-family: 'Caveat';
+    font-weight: 100;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
 }
 .post img {
     margin: 20px;
 }
 body {
-   background-color: black;
+   background-color: purple;
 }
 
 .post10 img {
@@ -33,16 +39,16 @@ body {
 }
 
 footer {
-    background-color:black;
+    background-color:purple;
 }
 
 .post9 {
-    background-color: white;
+    background-color: orange;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
     display: flex;
-    color: redn;
+    color: red;
 }
 .post9 img {
     margin: 20px;
