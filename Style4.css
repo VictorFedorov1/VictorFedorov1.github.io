@@ -1,0 +1,50 @@
+header{
+    background-color: black;
+}
+
+main {
+    padding: 10px;
+    background-color: black;
+}
+.post {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.post img {
+    margin: 20px;
+}
+body {
+   background-color: black;
+}
+
+.post10 img {
+    margin: 20px;
+    padding: 10px 1000px 10px 10px;
+}
+
+.post10 {
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+footer {
+    background-color:black;
+}
+
+.post9 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    color: redn;
+}
+.post9 img {
+    margin: 20px;
+}
+

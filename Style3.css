@@ -1,0 +1,44 @@
+header {
+    margin: 30px;
+}
+
+main {
+    padding: 10px;
+    background-color: black;
+}
+.post {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    height:250px;
+    width: 47%;
+    float:left;
+}
+.post img {
+    margin: 5px;
+}
+body {
+   background-color: black;
+}
+
+
+
+footer {
+    background-color: black;
+    float: left;
+}
+
+.post9 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    color: redn;
+}
+.post9 img {
+    margin: 20px;
+}
+
