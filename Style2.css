@@ -5,8 +5,10 @@ h1 {
     margin: 0px 850px 0px 850px;
     font-weight: 500px;
     height: 350px;
+    padding: 0px;
 }
 
 .post {
     margin: 0px 300px 0px 300px;
+    padding: 0px;
 }
