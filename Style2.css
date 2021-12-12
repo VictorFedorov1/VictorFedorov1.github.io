@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+h1 {
+    font-family: 'Pacifico';
+    margin: 0px 850px 0px 850px;
+    font-weight: 500px;
+    height: 350px;
+}
+
+.post {
+    margin: 0px 300px 0px 300px;
+}
